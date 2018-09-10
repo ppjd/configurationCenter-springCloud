@@ -10,5 +10,5 @@ spring:
 spring:
   profiles: test #测试环境
   application:
-    name: microservicecloud-config-ppjd-dev
+    name: microservicecloud-config-ppjd-test
 #请保存为UTF-8 格式
